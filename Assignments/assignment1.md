@@ -26,7 +26,7 @@ Expected time: **10–15 hours**
 
 For each section:
 
-* 3–5 experiments
+* 3–5 experiments 
 * 1 visualization or table
 * 1 short explanation (1–2 sentences)
 
@@ -93,6 +93,7 @@ Observe how they are represented.
 Then load the seaborn **tips dataset** and convert rows into natural language descriptions.
 Study how representation length varies across rows.
 
+
 ### Hints
 
 * Try changing only one property at a time
@@ -129,7 +130,7 @@ Use at least these prompts:
 
 ## Investigation
 
-Generate multiple outputs from the same prompt under different generation settings.
+Generate multiple outputs from the same prompt under different generation settings. using beam, greedy
 
 ### Hints
 
@@ -163,7 +164,8 @@ Compare BERT and GPT using multiple approaches.
 ### Hints
 
 * Ask whether the model can see future words
-* Try inserting a blank in the sentence
+* Try inserting a blank in the sentence - fill in the blanks kind of sentences 
+next token predictions , fill in the blanks
 * A model can guess missing words but fail at continuing stories
 
 ---
