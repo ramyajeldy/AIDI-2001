@@ -11,5 +11,6 @@ dependencies = [
     "transformers>=5.0.0",
     "datasets",
     "torch",
+    "sentencepiece",
     "seaborn"
 ]
