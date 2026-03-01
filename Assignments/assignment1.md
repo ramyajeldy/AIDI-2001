@@ -55,12 +55,7 @@ You are **not expected to understand internal mathematics yet**.
 
 Install:
 
-* transformers
-* datasets
-* torch
-* seaborn
-* pandas
-* matplotlib
+
 
 Documentation:
 
